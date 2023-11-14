@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 ### Iowa State University College of Aerospace Engineering
 - Currently earning an undergraduate degree in the aerospace engineering department
 - Expected graduation in spring of 2024
-- I am interested in spacecraft GNC, trajectory optimization and optimal control theory
-- I have focused my technical electives on spacecraft trajectory optimization, GNC and optimal control theory
+- I am interested in GNC, trajectory optimization and, applied optimal control
+- I have focused my technical electives on spacecraft trajectory optimization, GNC and, optimal control
 
